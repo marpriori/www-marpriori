@@ -1329,3 +1329,6 @@ fieldset[disabled] .btn-theme {
     text-align: right;
   }
 }
+.img-responsive{
+  margin: 0 auto;
+}
